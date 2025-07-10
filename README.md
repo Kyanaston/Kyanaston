@@ -1,3 +1,4 @@
 ![ ](home.png)  
 ---
-![ ](bAPS4Gqw8y.gif)
+```sh
+Welcome to my profile!  
